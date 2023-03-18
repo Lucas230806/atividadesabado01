@@ -1,0 +1,63 @@
+body{
+    background: #111827;
+}
+
+header{
+  color: #FFFFFF;
+}
+
+h1{
+    margin-left: 200px;
+}
+
+.container img{
+    height: 550px;
+    width: 650px;
+    margin-left: 200px;
+    margin-top: 60px;
+}
+
+button{
+    background-color: #7180B9;
+    
+    
+}
+.imagem img{
+height: 5px;
+width: 5px;
+margin-left: 20px ;
+}
+.imagem{
+    font-size: larger;
+    text-align: center;
+}
+
+ h2{
+height:50px;
+}
+
+.aolado{
+    height: 620px;
+    width: 510px;
+    margin-left: 50px;
+}
+
+
+.botao{
+height: 40px;
+width: 300px;
+border-radius: 4px;
+}
+
+article input{
+    height: 37px;
+    width: 300px;
+    border-radius: 4px;
+}
+
+
+
+
+
+
+
